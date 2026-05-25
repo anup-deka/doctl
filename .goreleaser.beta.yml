@@ -41,7 +41,7 @@ checksum:
 
 release:
   github:
-    owner: digitalocean
+    owner: anup-deka
     name: doctl
   prerelease: true
   make_latest: false
